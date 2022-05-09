@@ -1,1 +1,1 @@
-moving to sr.ht -- find me at https://git.sr.ht/~jleightcap/
+personal projects moved to https://git.sr.ht/~jleightcap/
